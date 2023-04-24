@@ -1,0 +1,25 @@
+Front
+npm install -g @Angular/cli
+ng new my-dream=app
+cd my-dream-app
+ng serve
+ng generate service api
+
+ng generate component members-detail
+
+
+Django
+django-admin startproject myproject
+c:\Cursos\members\members-backend\venv\Scripts>
+activate
+python manage.py migrate
+python manage.py runserver
+python manage.py startapp appname
+
+python manage.py runserver
+
+CORS
+https://github.com/adamchainz/django-cors-headers
+
+Aplicação exemplo:
+https://github.com/johnggli/django-angular-CRUD
